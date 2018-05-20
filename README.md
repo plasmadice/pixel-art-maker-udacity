@@ -2,6 +2,9 @@
 This project is created for Udacity's Front End Web Developer Nanodegree course
 
 ### How to use
+
+Clone or download this repository. Open `index.html`.
+
 Select your grid `height` and `width`. Pick a color if you like. Click `Submit`. Click anywhere on the grid to fill in that cell.
 
 ### How it works
